@@ -1,0 +1,18 @@
+﻿  Application.cpp
+  Camera.cpp
+  GameObject.cpp
+  LoadOBJ.cpp
+  LoadTGA.cpp
+  main.cpp
+  Mesh.cpp
+  MeshBuilder.cpp
+  SceneBase.cpp
+  SceneMovement.cpp
+  SceneTicTacToe.cpp
+  shader.cpp
+  Utility.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 601 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AI.vcxproj -> C:\Users\tohdj\Documents\2023_2024_SEM2\DX1220 Game AI Programming\Teaching Materials\DM2242 Materials (WS)\Week 01\DX1220_AI\Release\AI.exe
